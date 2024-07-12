@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #d6b437cb;
+}
+
+h3 {
+    color: #333;
+}
+
+.my-graph .js-plotly-plot .plotly .nsewdrag {
+    border: 1px solid black;
+    background-color: #c5d944a4;
+}
+
+.Select-control {
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.Select--single > .Select-control .Select-value {
+    padding: 6px;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
